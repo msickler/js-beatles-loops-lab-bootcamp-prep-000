@@ -14,3 +14,10 @@ function johnLennonFacts(facts) {
    }
    return exclamedfacts;
 }
+
+function iLoveTheBeatles(n) {
+  var = [];
+  do {array.push("I love the Beatles!");}
+while (n > 15);
+return array
+}
