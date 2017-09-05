@@ -10,7 +10,7 @@ function johnLennonFacts(facts) {
    let n = 0;
    while ( n < facts.length ) {
    exclamedfacts.push (facts[n] + "!!!");
-   
+
    }
    return exclamedfacts;
 }
