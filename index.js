@@ -9,4 +9,5 @@ function johnLennonFacts(facts) {
   while (n < facts) {
     facts.push(facts[n] + '!!!');
   }
+  return facts
 }
